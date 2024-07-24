@@ -51,4 +51,4 @@ Distributed under the MIT License. See LICENSE for more information.
 ### Contact
 Name: Abhinav Bansal Email: abhinavbansal2503@gmail.com
 
-Project Link: https://github.com/BansalAbhinav/Expense-Tracker](https://github.com/BansalAbhinav/Fitnes_App
+Project Link: https://github.com/BansalAbhinav/Fitnes_App
