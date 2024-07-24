@@ -25,7 +25,7 @@ To get a local copy up and running, follow these steps:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/BansalAbhinav/Expense-Tracker
+   git clone https://github.com/BansalAbhinav/Fitnes_App
 Navigate to the project directory:
 
 sh
